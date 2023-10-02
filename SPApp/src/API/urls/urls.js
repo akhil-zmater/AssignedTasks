@@ -1,0 +1,1 @@
+export const FetchData_url= 'https://jsonplaceholder.typicode.com/posts';
